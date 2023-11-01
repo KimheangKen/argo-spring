@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: springapp
-        image: kimheang68/jenkins-spring-build:latest
+        image: kimheang68/jenkins-spring-build:8
         ports:
         - containerPort: 8080
       
